@@ -4,7 +4,6 @@ Basic express server, with testing
 
 
 ## Live Deployments
-- XXX FIX BELOW XXX
 - [main branch deployment](https://basic-express-server-with-tests.onrender.com)
 - [This is the PR link](https://github.com/0xQuasark/basic-express-server/pull/2) from `dev` to `main`
 
